@@ -1,3 +1,17 @@
+# Migrating Your Repository
+
+This project has been migrated to GitHub.
+
+## Purpose
+
+This repository is part of a migration exercise to demonstrate how to move and organize code using GitHub.
+
+## Key Features
+
+- Version control using GitHub
+- Migration from legacy systems
+- Collaboration using issues and pull requests
+
 <p align="center"><a href="https://lab.github.com/"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
 
 <h1 align="center">Course: Migrating your repository to GitHub </h1>
